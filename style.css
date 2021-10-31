@@ -7,7 +7,7 @@ body {
 /* Navbar */
 .navbar-dark {
     /* 3px */
-    letter-spacing: .25em;
+    /* letter-spacing: .25em; */
     /* 18px */
     font-size: 1.125rem;
     background-color: #000 !important;
