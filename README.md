@@ -17,9 +17,10 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 <br />
 
 **Connect with me!**
-<a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" /></a>
-<a href="https://www.instagram.com/rhenald.ux/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/18265738341599780998-512.png" /></a>
-<a href="https://www.dribbble.com/rhenaldkarrel/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/18280882081530077749-512.png" /></a>
+
+<a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" /></a>
+<a href="https://www.instagram.com/rhenald.ux/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/18265738341599780998-512.png" /></a>
+<a href="https://www.dribbble.com/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/18280882081530077749-512.png" /></a>
 
 <br />
 
