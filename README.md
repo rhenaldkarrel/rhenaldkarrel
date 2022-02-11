@@ -16,17 +16,6 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 <br />
 
-**Connect with me!**
-
-<code><a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" /></a></code>
-<code><a href="https://www.instagram.com/rhenald.ux/" target="_blank"><img height="40" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1644578738~hmac=c0d9cc759f241b5b2ddc16cc7f58a298" /></a></code>
-<code><a href="https://www.dribbble.com/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/18280882081530077749-512.png" /></a></code>
-<code><a href="https://www.behance.net/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/4957984901556105311-512.png" /></a></code>
-<code><a href="https://www.twitter.com/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" /></a></code>
-
-
-<br />
-
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,3 +27,13 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
+
+<br />
+
+**Connect with me!**
+
+<code><a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" /></a></code>
+<code><a href="https://www.instagram.com/rhenald.ux/" target="_blank"><img height="40" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1644578738~hmac=c0d9cc759f241b5b2ddc16cc7f58a298" /></a></code>
+<code><a href="https://www.dribbble.com/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/18280882081530077749-512.png" /></a></code>
+<code><a href="https://www.behance.net/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/4957984901556105311-512.png" /></a></code>
+<code><a href="https://www.twitter.com/rhenaldkarrel/" target="_blank"><img height="40" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" /></a></code>
