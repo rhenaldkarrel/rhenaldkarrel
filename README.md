@@ -4,7 +4,7 @@
 
 I'm a 2+ years experienced UI/UX Product Designer from Indonesia. Even that I'm basically a designer, but I have a massive interest on a lot of things in techs. I have an interest on tech startup, machine learning, flutter, digital marketing, etc. 
 
-
+<br />
 
 **About me**
 
@@ -16,7 +16,7 @@ I'm a 2+ years experienced UI/UX Product Designer from Indonesia. Even that I'm 
 
 - 🔗 Connect on <a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/">LinkedIn</a>
 
-
+<br />
 
 **Languages and Tools:**  
 
