@@ -14,17 +14,22 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 - 💻 Currently learning to be a Software Engineer
 
-- 🔗 Connect on <a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank">LinkedIn</a>
+<br />
+
+**Connect with me!**
+<a href="https://www.linkedin.com/in/rhenald-karrel-8216781b3/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" /></a>
+<a href="https://www.instagram.com/rhenald.ux/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/18265738341599780998-512.png" /></a>
+<a href="https://www.dribbble.com/rhenaldkarrel/" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/18280882081530077749-512.png" /></a>
 
 <br />
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&layout=compact&theme=radical&hide_border=true" /> |
