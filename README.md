@@ -10,6 +10,8 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 - 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a>
 
+- 🏫 Currently pursuing BASc Computer Science on Politeknik Negeri Jakarta, Indonesia
+
 - 📖 Currently pursuing Google UX Design Certificate on Coursera
 
 - 💻 Currently learning to be a Software Engineer
