@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rhenaldkarrel.vercel.app/" target="_blank"><img width="30%" src="https://www.notion.so/image/https%3A%2F%2Fblush.design%2Fapi%2Fdownload%3FshareUri%3D34fiQdaGlAjyABMH%26c%3DSkin_0%257Eedb98a%26w%3D800%26h%3D800%26fm%3Dpng?table=block&id=dd09646a-9761-4820-ba43-215d2b9c74df&cache=v2" /></a></p>
+<p align="center"><a href="https://rhenaldkarrel.vercel.app/" target="_blank"><img width="30%" src="https://media-exp1.licdn.com/dms/image/C4E03AQEOA0tlCDE4oQ/profile-displayphoto-shrink_800_800/0/1628587180054?e=1649894400&v=beta&t=ScFjsC21NQGGN4B-ioM2qBRYQvpG0blCvbxem6X7o8A" /></a></p>
 
 <br />
 
