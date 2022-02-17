@@ -1,3 +1,5 @@
+<h1 align="center">Hello, my name is Rhenald Karrel!</h1>
+
 <p align="center"><a href="https://rhenaldkarrel.vercel.app/" target="_blank"><img width="30%" src="https://media-exp1.licdn.com/dms/image/C4E03AQEOA0tlCDE4oQ/profile-displayphoto-shrink_800_800/0/1628587180054?e=1649894400&v=beta&t=ScFjsC21NQGGN4B-ioM2qBRYQvpG0blCvbxem6X7o8A" /></a></p>
 
 <br />
