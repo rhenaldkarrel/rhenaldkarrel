@@ -2,10 +2,6 @@
 
 <br />
 
-<p align="center"><a href="https://rhenaldkarrel.vercel.app/" target="_blank"><img width="30%" src="https://media-exp1.licdn.com/dms/image/C4E03AQEOA0tlCDE4oQ/profile-displayphoto-shrink_800_800/0/1628587180054?e=1649894400&v=beta&t=ScFjsC21NQGGN4B-ioM2qBRYQvpG0blCvbxem6X7o8A" /></a></p>
-
-<br />
-
 I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_blank">UI/UX Product Designer</a> from Indonesia. Even that I'm basically a designer, but I have a massive interest on a lot of things in techs. I have an interest on tech startup, machine learning, flutter, digital marketing, etc. 
 
 <br />
