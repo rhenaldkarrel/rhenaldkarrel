@@ -1,8 +1,8 @@
-<h1 align="center">Hello, my name is Rhenald Karrel!</h1>
+<h1>Hello, my name is Rhenald Karrel!</h1>
 
 <br />
 
-I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_blank">UI/UX Product Designer</a> from Indonesia. Even that I'm basically a designer, but I have a massive interest on a lot of things in techs. I have an interest on tech startup, machine learning, flutter, digital marketing, etc. 
+I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_blank">UI/UX Product Designer</a> from Indonesia. Even that I'm basically a designer, but I have a massive interest on a lot of things in tech and software engineering. I have an interest on tech startup, machine learning, flutter, digital marketing, etc. 
 
 <br />
 
@@ -13,8 +13,6 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 - 🏫 Currently pursuing BASc Computer Science on Politeknik Negeri Jakarta, Indonesia
 
 - 📖 Currently pursuing Google UX Design Certificate on Coursera
-
-- 💻 Currently learning to be a Software Engineer
 
 <br />
 
