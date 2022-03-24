@@ -8,11 +8,11 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 **About me**
 
-- 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a>
+- 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a> and <a href="https://medium.com/@rhenaldkarrel/" target="_blank">Medium</a>
 
 - 🏫 Currently pursuing BASc Computer Science on Politeknik Negeri Jakarta, Indonesia
 
-- 📖 Currently pursuing Google UX Design Certificate on Coursera
+- 📖 Currently pursuing Google UX Design Certificate on Coursera and Fronend Engineering learning track on Generasi Gigih 2.0 by YABB and GoTo Group
 
 <br />
 
