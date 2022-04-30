@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_blank">UI/UX Product Designer</a> from Indonesia. Even that I'm basically a designer, but I have a massive interest on a lot of things in tech and software engineering. I have an interest on tech startup, machine learning, flutter, digital marketing, etc. 
+I am a Software Engineer focused on Frontend Web Development. I am passionate to create a scalable, readable, and efficient code. 
 
 <br />
 
@@ -10,7 +10,7 @@ I'm a 2+ years experienced <a href="https://rhenaldkarrel.simple.ink/" target="_
 
 - 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a> and <a href="https://medium.com/@rhenaldkarrel/" target="_blank">Medium</a>
 
-- 🏫 Currently pursuing BASc Computer Science on Politeknik Negeri Jakarta, Indonesia
+- 🏫 2+ years experience in <a href="https://rhenaldkarrel.simple.ink" target="_blank">Product Management and Design</a>
 
 - 📖 Currently pursuing Google UX Design Certificate on Coursera and Fronend Engineering learning track on Generasi Gigih 2.0 by YABB and GoTo Group
 
