@@ -27,7 +27,7 @@ I am a Software Engineer focused on Frontend Web Development. I am passionate to
 </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" /> | <a href="https://github.com/rhenaldkarrel?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" /> | <a href="https://github.com/rhenaldkarrel?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
 <br />
