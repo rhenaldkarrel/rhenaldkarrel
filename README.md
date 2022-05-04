@@ -3,7 +3,9 @@
 <br />
 
 I am a Software Engineer focused on Frontend Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=raisoturu.raisoturu)
+<br />
+![](https://komarev.com/ghpvc/?username=rhenaldkarrel&label=PROFILE+VIEWS&color=blue)
+
 
 <br />
 
