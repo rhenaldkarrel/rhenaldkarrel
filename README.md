@@ -2,7 +2,7 @@
 
 <br />
 
-I am a Software Engineer focused on Frontend Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. 
+I am a Software Engineer focused on Frontend Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. Currently I'm working at FXMedia Internet Pte. Ltd. as Frontend Developer Intern.
 
 <br />
 
@@ -47,5 +47,8 @@ I am a Software Engineer focused on Frontend Web Development. I am passionate to
 
 **Stats**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" /> | <a href="https://github.com/rhenaldkarrel?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rhenald's github stats" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rhenaldkarrel&theme=graywhite&hide_border=false)
