@@ -49,6 +49,6 @@ I am a Software Engineer focused on Frontend Web Development. I am passionate to
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Rhenald's github stats" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rhenaldkarrel&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rhenaldkarrel&theme=dark&hide_border=true)
