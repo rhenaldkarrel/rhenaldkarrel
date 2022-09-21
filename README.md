@@ -31,7 +31,7 @@ I am a Software Engineer focused on Frontend Web Development. I am passionate to
 
 <br />
 
-**Languages and Tools:**  
+**Tech Stack:**  
 
 <p align="left">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
