@@ -2,7 +2,7 @@
 
 <br />
 
-I am a Software Engineer focused on Frontend Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. Currently I'm working at FXMedia Internet Pte. Ltd. as Frontend Developer Intern.
+I am a Software Engineer focused on  Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. Currently I'm working at FXMedia Internet Pte. Ltd. as Frontend Developer Intern.
 
 <br />
 
@@ -16,8 +16,6 @@ I am a Software Engineer focused on Frontend Web Development. I am passionate to
 - 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a> and <a href="https://medium.com/@rhenaldkarrel/" target="_blank">Medium</a>
 
 - 🏫 1+ years experience in <a href="https://rhenaldkarrel.simple.ink" target="_blank">Product Management and Design</a>
-
-- 📖 Currently pursuing Google UX Design Certificate on Coursera and Frontend Engineering learning track on Generasi Gigih 2.0 by YABB and GoTo Group
 
 <br />
 
