@@ -1,6 +1,4 @@
-<h1>Hi, I'm Rhenald! 👋</h1>
-
-<br />
+# Hi, I'm Rhenald! 👋
 
 I am a Software Engineer focused on  Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. Currently I'm working at FXMedia Internet Pte. Ltd. as Frontend Developer Intern.
 
