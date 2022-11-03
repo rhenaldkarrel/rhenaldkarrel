@@ -1,4 +1,4 @@
-<h1>Hello, my name is Rhenald Karrel!</h1>
+<h1>Hi, I'm Rhenald! 👋</h1>
 
 <br />
 
