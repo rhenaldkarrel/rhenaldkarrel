@@ -6,11 +6,6 @@ I am a Software Engineer focused on  Web Development. I am passionate to create 
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=rhenaldkarrel&label=PROFILE+VIEWS&color=blue)
-
-
-<br />
-
 **About me**
 
 - 💼 Talks about tech and design on <a href="https://twitter.com/rhenaldkarrel/" target="_blank">Twitter</a> and <a href="https://medium.com/@rhenaldkarrel/" target="_blank">Medium</a>
