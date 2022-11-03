@@ -42,13 +42,3 @@ I am a Software Engineer focused on  Web Development. I am passionate to create 
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
 </p>
-
-<br />
-
-**Stats**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Rhenald's github stats" />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rhenaldkarrel&theme=dark&hide_border=true)
