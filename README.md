@@ -1,6 +1,6 @@
 # Hi, I'm Rhenald! 👋
 
-I am a Software Engineer focused on  Web Development. I am passionate to create a scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. **I specialized in working with React and Node ecosystem.**
+I am a Software Engineer focused on  Web Development and an open-source contributor. I am passionate about creating scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. **I specialized in working with React and Node ecosystems.**
 
 **Tech Stack:**  
 
