@@ -1,0 +1,24 @@
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+  <rect width="900" height="260" fill="#0D1117"/>
+  <rect x="0" y="0" width="900" height="38" fill="#161B22"/>
+  <circle cx="22" cy="19" r="5" fill="#FF5F57"/>
+  <circle cx="40" cy="19" r="5" fill="#FEBC2E"/>
+  <circle cx="58" cy="19" r="5" fill="#28C840"/>
+  <text x="80" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#6E7681">rhenaldkarrel — zsh</text>
+
+  <text x="34" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#3FB950">~ $</text>
+  <text x="72" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#C9D1D9">whoami</text>
+
+  <text x="34" y="132" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,sans-serif" font-size="38" font-weight="600" fill="#F0F6FC">Rhenald Karrel</text>
+  <text x="34" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#8B949E">software engineer · web · jakarta</text>
+
+  <rect x="34" y="186" width="3" height="44" fill="#3FB950"/>
+  <text x="50" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#6E7681">daily</text>
+  <text x="50" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#C9D1D9">go · typescript · react · next · postgres</text>
+
+  <rect x="470" y="186" width="3" height="44" fill="#30363D"/>
+  <text x="486" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#6E7681">comfortable</text>
+  <text x="486" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8B949E">vue · node · graphql · mongo · laravel</text>
+
+  <rect x="742" y="118" width="11" height="20" fill="#3FB950"/>
+</svg>
