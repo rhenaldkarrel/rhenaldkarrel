@@ -1,0 +1,23 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+<rect width="900" height="300" fill="#08090C"/>
+<g opacity="0.5" stroke="#16181D" stroke-width="1">
+<line x1="0" y1="60" x2="900" y2="60"/><line x1="0" y1="120" x2="900" y2="120"/>
+<line x1="0" y1="180" x2="900" y2="180"/><line x1="0" y1="240" x2="900" y2="240"/>
+<line x1="150" y1="0" x2="150" y2="300"/><line x1="300" y1="0" x2="300" y2="300"/>
+<line x1="450" y1="0" x2="450" y2="300"/><line x1="600" y1="0" x2="600" y2="300"/>
+<line x1="750" y1="0" x2="750" y2="300"/>
+</g>
+<rect x="0" y="0" width="14" height="300" fill="#00E5A0"/>
+<text x="56" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#00E5A0">~ $</text>
+<text x="86" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#C9D1D9">gh api --stats</text>
+<g font-family="ui-sans-serif,-apple-system,Segoe UI,sans-serif">
+<text x="56" y="122" font-size="44" font-weight="700" fill="#FFFFFF">41</text><text x="56" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1" fill="#6B7280">STARS</text>
+<text x="256" y="122" font-size="44" font-weight="700" fill="#FFFFFF">81</text><text x="256" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1" fill="#6B7280">COMMITS · 1Y</text>
+<text x="496" y="122" font-size="44" font-weight="700" fill="#00E5A0">37</text><text x="496" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1" fill="#6B7280">PRS MERGED</text>
+<text x="716" y="122" font-size="44" font-weight="700" fill="#FFFFFF">26</text><text x="716" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1" fill="#6B7280">FOLLOWERS</text>
+</g>
+<text x="56" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1" fill="#6B7280">TOP LANGUAGES</text>
+<rect x="56" y="210" width="219" height="12" rx="2" fill="#AA6746"/><rect x="279" y="210" width="180" height="12" rx="2" fill="#3178c6"/><rect x="463" y="210" width="133" height="12" rx="2" fill="#f1e05a"/><rect x="600" y="210" width="84" height="12" rx="2" fill="#4F5D95"/><rect x="688" y="210" width="171" height="12" rx="2" fill="#2A2F38"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12"><circle cx="62" cy="252" r="4" fill="#AA6746"/><text x="74" y="256" fill="#9AA4B2">Solidity 28%</text><circle cx="193.6" cy="252" r="4" fill="#3178c6"/><text x="205.6" y="256" fill="#9AA4B2">TypeScript 23%</text><circle cx="339.79999999999995" cy="252" r="4" fill="#f1e05a"/><text x="351.79999999999995" y="256" fill="#9AA4B2">JavaScript 17%</text><circle cx="485.99999999999994" cy="252" r="4" fill="#4F5D95"/><text x="497.99999999999994" y="256" fill="#9AA4B2">PHP 11%</text><circle cx="581.0999999999999" cy="252" r="4" fill="#2A2F38"/><text x="593.0999999999999" y="256" fill="#9AA4B2">Other 22%</text></g>
+<text x="844" y="286" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#3A4048">updated 2026-09-14</text>
+</svg>
