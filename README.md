@@ -23,9 +23,6 @@
 
 ## `>` Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&hide_border=true&bg_color=08090C&title_color=00E5A0&text_color=9AA4B2&icon_color=00E5A0)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&layout=compact&hide_border=true&bg_color=08090C&title_color=00E5A0&text_color=9AA4B2)
+<img src="./stats.svg" width="100%" alt="GitHub stats">
 
 </div>
