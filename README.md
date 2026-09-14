@@ -1,25 +1,31 @@
-# Hi, I'm Rhenald! 👋
+<img src="./banner.svg" width="100%" alt="Rhenald Karrel — Software Engineer">
 
-I am a Software Engineer focused on  Web Development and an open-source contributor. I am passionate about creating scalable, readable, and efficient code to solve real problems through collaboration and strategic thinking. **I specialized in working with Modern JavaScript Frameworks (React, Vue, Next) and Golang ecosystems.**
+<div align="center">
 
-**Tech Stack:**  
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-08090C?style=for-the-badge&logo=vercel&logoColor=00E5A0)](https://rhenaldkarrel-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-08090C?style=for-the-badge&logo=linkedin&logoColor=00E5A0)](https://linkedin.com/in/rhenaldkarrel)
+[![Email](https://img.shields.io/badge/EMAIL-08090C?style=for-the-badge&logo=gmail&logoColor=00E5A0)](mailto:rhenald.dev@gmail.com)
 
-Professional:
-<p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-</p>
+</div>
 
-Competent:
-<p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</p>
+## `>` Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+## `>` Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rhenaldkarrel&show_icons=true&hide_border=true&bg_color=08090C&title_color=00E5A0&text_color=9AA4B2&icon_color=00E5A0)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenaldkarrel&layout=compact&hide_border=true&bg_color=08090C&title_color=00E5A0&text_color=9AA4B2)
+
+</div>
